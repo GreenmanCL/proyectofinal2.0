@@ -4,11 +4,11 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # SharpDevelop 4.4
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProyectoFina", "ProyectoFina\ProyectoFina.csproj", "{09A9153D-9502-4AD8-8982-33309C31032A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "examen", "..\..\Emplea Frameworks\examen\examen\examen.csproj", "{B531C603-0E0A-4A84-B4E7-D33E86E2EAC4}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EMPLEADOS", "..\EMPLEADOS\EMPLEADOS\EMPLEADOS.csproj", "{A044AAA4-2C9E-4DAC-A831-C748E9E42714}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PASTELERIA", "..\PASTELERIA\PASTELERIA\PASTELERIA.csproj", "{D3299629-4F07-44A7-8365-19DFC406CCBB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "examen", "..\examen\examen\examen.csproj", "{B531C603-0E0A-4A84-B4E7-D33E86E2EAC4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -20,10 +20,6 @@ Global
 		{09A9153D-9502-4AD8-8982-33309C31032A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{09A9153D-9502-4AD8-8982-33309C31032A}.Release|Any CPU.Build.0 = Release|Any CPU
 		{09A9153D-9502-4AD8-8982-33309C31032A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B531C603-0E0A-4A84-B4E7-D33E86E2EAC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B531C603-0E0A-4A84-B4E7-D33E86E2EAC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B531C603-0E0A-4A84-B4E7-D33E86E2EAC4}.Release|Any CPU.Build.0 = Release|Any CPU
-		{B531C603-0E0A-4A84-B4E7-D33E86E2EAC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A044AAA4-2C9E-4DAC-A831-C748E9E42714}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A044AAA4-2C9E-4DAC-A831-C748E9E42714}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{A044AAA4-2C9E-4DAC-A831-C748E9E42714}.Release|Any CPU.Build.0 = Release|Any CPU
@@ -32,5 +28,9 @@ Global
 		{D3299629-4F07-44A7-8365-19DFC406CCBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{D3299629-4F07-44A7-8365-19DFC406CCBB}.Release|Any CPU.Build.0 = Release|Any CPU
 		{D3299629-4F07-44A7-8365-19DFC406CCBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B531C603-0E0A-4A84-B4E7-D33E86E2EAC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B531C603-0E0A-4A84-B4E7-D33E86E2EAC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B531C603-0E0A-4A84-B4E7-D33E86E2EAC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B531C603-0E0A-4A84-B4E7-D33E86E2EAC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 EndGlobal
