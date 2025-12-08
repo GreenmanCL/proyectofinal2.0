@@ -47,10 +47,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="EMPLEADOS.cs" />
-    <Compile Include="EMPLEADOS.Designer.cs">
-      <DependentUpon>EMPLEADOS.cs</DependentUpon>
-    </Compile>
     <Compile Include="LOGIN.cs" />
     <Compile Include="LOGIN.Designer.cs">
       <DependentUpon>LOGIN.cs</DependentUpon>
@@ -59,25 +55,15 @@
     <Compile Include="MENU.Designer.cs">
       <DependentUpon>MENU.cs</DependentUpon>
     </Compile>
-    <Compile Include="PASTELERIA.cs" />
-    <Compile Include="PASTELERIA.Designer.cs">
-      <DependentUpon>PASTELERIA.cs</DependentUpon>
-    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="EMPLEADOS.resx">
-      <DependentUpon>EMPLEADOS.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="LOGIN.resx">
       <DependentUpon>LOGIN.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="MENU.resx">
       <DependentUpon>MENU.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="PASTELERIA.resx">
-      <DependentUpon>PASTELERIA.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
