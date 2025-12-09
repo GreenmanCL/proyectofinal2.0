@@ -44,12 +44,13 @@ namespace ProyectoFina
 				MessageBox.Show("Te quedan " + intentos.ToString() + " intentos");
 				intentos=intentos-1;
 			}
-			if(intentos==0){
+			if(intentos==-1){
 				txtUsuario.Text=" ";
 				txtContraseña.Text=" ";
 				txtUsuario.Enabled=false;
 				txtContraseña.Enabled=false;
 				button1.Enabled=false;
+				MessageBox.Show("Prueba 'ADMIN' y '123' ");
 			}
 					
 			}

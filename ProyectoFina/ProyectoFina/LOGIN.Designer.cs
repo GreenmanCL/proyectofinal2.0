@@ -50,16 +50,16 @@ namespace ProyectoFina
 			this.label1.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
 			this.label1.Location = new System.Drawing.Point(27, 31);
 			this.label1.Name = "label1";
-			this.label1.Size = new System.Drawing.Size(105, 34);
+			this.label1.Size = new System.Drawing.Size(230, 48);
 			this.label1.TabIndex = 0;
 			this.label1.Text = "Usuario:";
 			// 
 			// txtUsuario
 			// 
 			this.txtUsuario.BackColor = System.Drawing.Color.White;
-			this.txtUsuario.Location = new System.Drawing.Point(165, 38);
+			this.txtUsuario.Location = new System.Drawing.Point(263, 31);
 			this.txtUsuario.Name = "txtUsuario";
-			this.txtUsuario.Size = new System.Drawing.Size(139, 22);
+			this.txtUsuario.Size = new System.Drawing.Size(139, 29);
 			this.txtUsuario.TabIndex = 1;
 			// 
 			// label2
@@ -68,16 +68,16 @@ namespace ProyectoFina
 			this.label2.ForeColor = System.Drawing.SystemColors.ButtonFace;
 			this.label2.Location = new System.Drawing.Point(12, 103);
 			this.label2.Name = "label2";
-			this.label2.Size = new System.Drawing.Size(141, 46);
+			this.label2.Size = new System.Drawing.Size(245, 46);
 			this.label2.TabIndex = 2;
 			this.label2.Text = "Contraseña:";
 			// 
 			// txtContraseña
 			// 
 			this.txtContraseña.BackColor = System.Drawing.Color.White;
-			this.txtContraseña.Location = new System.Drawing.Point(165, 110);
+			this.txtContraseña.Location = new System.Drawing.Point(263, 116);
 			this.txtContraseña.Name = "txtContraseña";
-			this.txtContraseña.Size = new System.Drawing.Size(139, 22);
+			this.txtContraseña.Size = new System.Drawing.Size(139, 29);
 			this.txtContraseña.TabIndex = 4;
 			// 
 			// button1
@@ -85,9 +85,9 @@ namespace ProyectoFina
 			this.button1.BackColor = System.Drawing.Color.Black;
 			this.button1.Font = new System.Drawing.Font("Kristen ITC", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
 			this.button1.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-			this.button1.Location = new System.Drawing.Point(94, 167);
+			this.button1.Location = new System.Drawing.Point(53, 182);
 			this.button1.Name = "button1";
-			this.button1.Size = new System.Drawing.Size(125, 44);
+			this.button1.Size = new System.Drawing.Size(349, 82);
 			this.button1.TabIndex = 5;
 			this.button1.Text = "Ingresar";
 			this.button1.UseVisualStyleBackColor = false;
@@ -95,12 +95,12 @@ namespace ProyectoFina
 			// 
 			// LOGIN
 			// 
-			this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 16F);
+			this.AutoScaleDimensions = new System.Drawing.SizeF(11F, 23F);
 			this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
 			this.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
 			this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
 			this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-			this.ClientSize = new System.Drawing.Size(338, 298);
+			this.ClientSize = new System.Drawing.Size(484, 330);
 			this.Controls.Add(this.button1);
 			this.Controls.Add(this.txtContraseña);
 			this.Controls.Add(this.label2);
