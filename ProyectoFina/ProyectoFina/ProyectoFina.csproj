@@ -66,5 +66,19 @@
       <DependentUpon>MENU.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\EMPLEADOS\EMPLEADOS\EMPLEADOS.csproj">
+      <Project>{A044AAA4-2C9E-4DAC-A831-C748E9E42714}</Project>
+      <Name>EMPLEADOS</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\examen\examen\examen.csproj">
+      <Project>{B531C603-0E0A-4A84-B4E7-D33E86E2EAC4}</Project>
+      <Name>examen</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\PASTELERIA\PASTELERIA\PASTELERIA.csproj">
+      <Project>{D3299629-4F07-44A7-8365-19DFC406CCBB}</Project>
+      <Name>PASTELERIA</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
