@@ -30,5 +30,26 @@ namespace ProyectoFina
 		}
 		
 		
+		
+		void EmpleadosToolStripMenuItemClick(object sender, EventArgs e)
+		{
+			EMPLEADOS.MainForm emp = new EMPLEADOS.MainForm();
+			emp.MdiParent = this;
+			emp.Show();
+		}
+		
+		void PasteleriaToolStripMenuItemClick(object sender, EventArgs e)
+		{
+			PASTELERIA.MainForm pas = new PASTELERIA.MainForm();
+			pas.MdiParent = this;
+			pas.Show();
+		}
+		
+		void ExamernAnteriorToolStripMenuItemClick(object sender, EventArgs e)
+		{
+			examen.MainForm exa = new examen.MainForm();
+			exa.MdiParent = this;
+			exa.Show();
+		}
 	}
 }
