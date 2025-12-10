@@ -52,3 +52,17 @@ CodeCoverage/
 *.VisualState.xml
 TestResult.xml
 nunit-*.xml
+
+# Permitir guardar configuraciones de IDE
+!*.user
+!*.userprefs
+!*.suo
+
+
+# --- Excepciones permanentes para permitir imágenes en bin/Debug ---
+!bin/
+!bin/Debug/
+!bin/Debug/**/*.png
+!bin/Debug/**/*.jpg
+!bin/Debug/**/*.jpeg
+!bin/Debug/**/*.gif
