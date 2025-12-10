@@ -39,6 +39,7 @@ namespace ProyectoFina
 			if(Usuario == "ADMIN" & Contraseña == "123"){
 				MENU opciones = new MENU();
 				opciones.Show();
+				this.Hide();
 			}
 			else if(Usuario != "ADMIN" & Contraseña !="123"){
 				MessageBox.Show("Te quedan " + intentos.ToString() + " intentos");

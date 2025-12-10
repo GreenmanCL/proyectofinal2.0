@@ -37,7 +37,6 @@ namespace PASTELERIA
 		private void InitializeComponent()
 		{
 			System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(MainForm));
-			this.pblogo = new System.Windows.Forms.PictureBox();
 			this.gpbeleccion = new System.Windows.Forms.GroupBox();
 			this.rdbDulce = new System.Windows.Forms.RadioButton();
 			this.rdbvacio = new System.Windows.Forms.RadioButton();
@@ -70,19 +69,10 @@ namespace PASTELERIA
 			this.btnGuardar = new System.Windows.Forms.Button();
 			this.btnBorrar = new System.Windows.Forms.Button();
 			this.btnImprimir = new System.Windows.Forms.Button();
-			((System.ComponentModel.ISupportInitialize)(this.pblogo)).BeginInit();
+			this.pictureBox1 = new System.Windows.Forms.PictureBox();
 			this.gpbeleccion.SuspendLayout();
+			((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
 			this.SuspendLayout();
-			// 
-			// pblogo
-			// 
-			this.pblogo.Image = ((System.Drawing.Image)(resources.GetObject("pblogo.Image")));
-			this.pblogo.Location = new System.Drawing.Point(-2, -3);
-			this.pblogo.Name = "pblogo";
-			this.pblogo.Size = new System.Drawing.Size(525, 76);
-			this.pblogo.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-			this.pblogo.TabIndex = 0;
-			this.pblogo.TabStop = false;
 			// 
 			// gpbeleccion
 			// 
@@ -377,12 +367,23 @@ namespace PASTELERIA
 			this.btnImprimir.UseVisualStyleBackColor = true;
 			this.btnImprimir.Click += new System.EventHandler(this.BtnImprimirClick);
 			// 
+			// pictureBox1
+			// 
+			
+			this.pictureBox1.Location = new System.Drawing.Point(52, 13);
+			this.pictureBox1.Name = "pictureBox1";
+			this.pictureBox1.Size = new System.Drawing.Size(399, 60);
+			this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+			this.pictureBox1.TabIndex = 31;
+			this.pictureBox1.TabStop = false;
+			// 
 			// MainForm
 			// 
 			this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 16F);
 			this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
 			this.BackColor = System.Drawing.Color.Black;
 			this.ClientSize = new System.Drawing.Size(523, 462);
+			this.Controls.Add(this.pictureBox1);
 			this.Controls.Add(this.btnImprimir);
 			this.Controls.Add(this.btnBorrar);
 			this.Controls.Add(this.btnGuardar);
@@ -408,18 +409,18 @@ namespace PASTELERIA
 			this.Controls.Add(this.label1);
 			this.Controls.Add(this.cmbproductos);
 			this.Controls.Add(this.gpbeleccion);
-			this.Controls.Add(this.pblogo);
 			this.Font = new System.Drawing.Font("Kristen ITC", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
 			this.ForeColor = System.Drawing.Color.White;
 			this.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
 			this.Name = "MainForm";
 			this.Text = "PASTELERIA";
 			this.Load += new System.EventHandler(this.MainFormLoad);
-			((System.ComponentModel.ISupportInitialize)(this.pblogo)).EndInit();
 			this.gpbeleccion.ResumeLayout(false);
+			((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
 			this.ResumeLayout(false);
 			this.PerformLayout();
 		}
+		private System.Windows.Forms.PictureBox pictureBox1;
 		private System.Windows.Forms.Button btnImprimir;
 		private System.Windows.Forms.Button btnBorrar;
 		private System.Windows.Forms.Button btnGuardar;
@@ -452,6 +453,5 @@ namespace PASTELERIA
 		private System.Windows.Forms.RadioButton rdbSalado;
 		private System.Windows.Forms.RadioButton rdbDulce;
 		private System.Windows.Forms.GroupBox gpbeleccion;
-		private System.Windows.Forms.PictureBox pblogo;
 	}
 }

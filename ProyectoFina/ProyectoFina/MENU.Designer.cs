@@ -42,10 +42,10 @@ namespace ProyectoFina
 			this.empleadosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
 			this.pasteleriaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
 			this.examernAnteriorToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+			this.boletaCalificacionesToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
 			this.informacionToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
 			this.acercaDeToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
 			this.salirToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-			this.boletaCalificacionesToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
 			this.menuStrip1.SuspendLayout();
 			this.SuspendLayout();
 			// 
@@ -74,23 +74,30 @@ namespace ProyectoFina
 			// empleadosToolStripMenuItem
 			// 
 			this.empleadosToolStripMenuItem.Name = "empleadosToolStripMenuItem";
-			this.empleadosToolStripMenuItem.Size = new System.Drawing.Size(231, 22);
+			this.empleadosToolStripMenuItem.Size = new System.Drawing.Size(216, 22);
 			this.empleadosToolStripMenuItem.Text = "Empleados";
 			this.empleadosToolStripMenuItem.Click += new System.EventHandler(this.EmpleadosToolStripMenuItemClick);
 			// 
 			// pasteleriaToolStripMenuItem
 			// 
 			this.pasteleriaToolStripMenuItem.Name = "pasteleriaToolStripMenuItem";
-			this.pasteleriaToolStripMenuItem.Size = new System.Drawing.Size(231, 22);
+			this.pasteleriaToolStripMenuItem.Size = new System.Drawing.Size(216, 22);
 			this.pasteleriaToolStripMenuItem.Text = "Pasteleria";
 			this.pasteleriaToolStripMenuItem.Click += new System.EventHandler(this.PasteleriaToolStripMenuItemClick);
 			// 
 			// examernAnteriorToolStripMenuItem
 			// 
 			this.examernAnteriorToolStripMenuItem.Name = "examernAnteriorToolStripMenuItem";
-			this.examernAnteriorToolStripMenuItem.Size = new System.Drawing.Size(231, 22);
-			this.examernAnteriorToolStripMenuItem.Text = "Examen anterior (Admin, 123)";
+			this.examernAnteriorToolStripMenuItem.Size = new System.Drawing.Size(216, 22);
+			this.examernAnteriorToolStripMenuItem.Text = "Examen anterior (sin login)";
 			this.examernAnteriorToolStripMenuItem.Click += new System.EventHandler(this.ExamernAnteriorToolStripMenuItemClick);
+			// 
+			// boletaCalificacionesToolStripMenuItem
+			// 
+			this.boletaCalificacionesToolStripMenuItem.Name = "boletaCalificacionesToolStripMenuItem";
+			this.boletaCalificacionesToolStripMenuItem.Size = new System.Drawing.Size(216, 22);
+			this.boletaCalificacionesToolStripMenuItem.Text = "Boleta Calificaciones";
+			this.boletaCalificacionesToolStripMenuItem.Click += new System.EventHandler(this.BoletaCalificacionesToolStripMenuItemClick);
 			// 
 			// informacionToolStripMenuItem
 			// 
@@ -106,19 +113,14 @@ namespace ProyectoFina
 			this.acercaDeToolStripMenuItem.Name = "acercaDeToolStripMenuItem";
 			this.acercaDeToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
 			this.acercaDeToolStripMenuItem.Text = "Acerca de";
+			this.acercaDeToolStripMenuItem.Click += new System.EventHandler(this.AcercaDeToolStripMenuItemClick);
 			// 
 			// salirToolStripMenuItem
 			// 
 			this.salirToolStripMenuItem.Name = "salirToolStripMenuItem";
 			this.salirToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
 			this.salirToolStripMenuItem.Text = "Salir";
-			// 
-			// boletaCalificacionesToolStripMenuItem
-			// 
-			this.boletaCalificacionesToolStripMenuItem.Name = "boletaCalificacionesToolStripMenuItem";
-			this.boletaCalificacionesToolStripMenuItem.Size = new System.Drawing.Size(231, 22);
-			this.boletaCalificacionesToolStripMenuItem.Text = "Boleta Calificaciones";
-			this.boletaCalificacionesToolStripMenuItem.Click += new System.EventHandler(this.BoletaCalificacionesToolStripMenuItemClick);
+			this.salirToolStripMenuItem.Click += new System.EventHandler(this.SalirToolStripMenuItemClick);
 			// 
 			// MENU
 			// 
@@ -132,7 +134,7 @@ namespace ProyectoFina
 			this.DoubleBuffered = true;
 			this.IsMdiContainer = true;
 			this.MainMenuStrip = this.menuStrip1;
-			this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+			this.Margin = new System.Windows.Forms.Padding(2);
 			this.Name = "MENU";
 			this.Text = "MENU";
 			this.menuStrip1.ResumeLayout(false);
