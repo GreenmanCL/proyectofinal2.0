@@ -12,3 +12,10 @@ C:\Users\CC2_PC14\Documents\EMPLEADOS\EMPLEADOS\obj\Debug\EMPLEADOS.exe
 C:\Users\CC2_PC14\Documents\EMPLEADOS\EMPLEADOS\obj\Debug\EMPLEADOS.pdb
 C:\Users\CC2_PC14\Documents\EMPLEADOS\EMPLEADOS\bin\Debug\EMPLEADOS.exe
 C:\Users\CC2_PC14\Documents\EMPLEADOS\EMPLEADOS\bin\Debug\EMPLEADOS.pdb
+C:\Users\CC2_PC16\Documents\nose\proyectofinal2.0\EMPLEADOS\EMPLEADOS\bin\Debug\EMPLEADOS.exe
+C:\Users\CC2_PC16\Documents\nose\proyectofinal2.0\EMPLEADOS\EMPLEADOS\bin\Debug\EMPLEADOS.pdb
+C:\Users\CC2_PC16\Documents\nose\proyectofinal2.0\EMPLEADOS\EMPLEADOS\obj\Debug\EMPLEADOS.csprojResolveAssemblyReference.cache
+C:\Users\CC2_PC16\Documents\nose\proyectofinal2.0\EMPLEADOS\EMPLEADOS\obj\Debug\EMPLEADOS.MainForm.resources
+C:\Users\CC2_PC16\Documents\nose\proyectofinal2.0\EMPLEADOS\EMPLEADOS\obj\Debug\EMPLEADOS.csproj.GenerateResource.Cache
+C:\Users\CC2_PC16\Documents\nose\proyectofinal2.0\EMPLEADOS\EMPLEADOS\obj\Debug\EMPLEADOS.exe
+C:\Users\CC2_PC16\Documents\nose\proyectofinal2.0\EMPLEADOS\EMPLEADOS\obj\Debug\EMPLEADOS.pdb
