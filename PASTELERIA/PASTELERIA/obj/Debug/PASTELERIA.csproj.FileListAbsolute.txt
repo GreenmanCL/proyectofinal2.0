@@ -3,3 +3,8 @@ C:\Users\CC1_PC02\Pictures\proyectofinal2.0-main\PASTELERIA\PASTELERIA\bin\Debug
 C:\Users\CC1_PC02\Pictures\proyectofinal2.0-main\PASTELERIA\PASTELERIA\obj\Debug\PASTELERIA.csprojResolveAssemblyReference.cache
 C:\Users\CC1_PC02\Pictures\proyectofinal2.0-main\PASTELERIA\PASTELERIA\obj\Debug\PASTELERIA.exe
 C:\Users\CC1_PC02\Pictures\proyectofinal2.0-main\PASTELERIA\PASTELERIA\obj\Debug\PASTELERIA.pdb
+C:\Users\CC2_PC14\Documents\PASTELERIA\PASTELERIA\bin\Debug\PASTELERIA.exe
+C:\Users\CC2_PC14\Documents\PASTELERIA\PASTELERIA\bin\Debug\PASTELERIA.pdb
+C:\Users\CC2_PC14\Documents\PASTELERIA\PASTELERIA\obj\Debug\PASTELERIA.csprojResolveAssemblyReference.cache
+C:\Users\CC2_PC14\Documents\PASTELERIA\PASTELERIA\obj\Debug\PASTELERIA.exe
+C:\Users\CC2_PC14\Documents\PASTELERIA\PASTELERIA\obj\Debug\PASTELERIA.pdb
