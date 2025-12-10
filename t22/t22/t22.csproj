@@ -1,15 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" DefaultTargets="Build">
   <PropertyGroup>
-    <ProjectGuid>{09A9153D-9502-4AD8-8982-33309C31032A}</ProjectGuid>
+    <ProjectGuid>{82B1B4A5-B5A5-4F4C-947D-3A759AB08563}</ProjectGuid>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>ProyectoFina</RootNamespace>
-    <AssemblyName>ProyectoFina</AssemblyName>
+    <RootNamespace>t22</RootNamespace>
+    <AssemblyName>t22</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <TargetFrameworkProfile>Client</TargetFrameworkProfile>
     <AppDesignerFolder>Properties</AppDesignerFolder>
+    <NoWin32Manifest>False</NoWin32Manifest>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Platform)' == 'AnyCPU' ">
     <PlatformTarget>x86</PlatformTarget>
@@ -47,42 +48,17 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="LOGIN.cs" />
-    <Compile Include="LOGIN.Designer.cs">
-      <DependentUpon>LOGIN.cs</DependentUpon>
-    </Compile>
-    <Compile Include="MENU.cs" />
-    <Compile Include="MENU.Designer.cs">
-      <DependentUpon>MENU.cs</DependentUpon>
+    <Compile Include="MainForm.cs" />
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="LOGIN.resx">
-      <DependentUpon>LOGIN.cs</DependentUpon>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="MENU.resx">
-      <DependentUpon>MENU.cs</DependentUpon>
-    </EmbeddedResource>
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\..\EMPLEADOS\EMPLEADOS\EMPLEADOS.csproj">
-      <Project>{A044AAA4-2C9E-4DAC-A831-C748E9E42714}</Project>
-      <Name>EMPLEADOS</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\..\examen\examen\examen.csproj">
-      <Project>{B531C603-0E0A-4A84-B4E7-D33E86E2EAC4}</Project>
-      <Name>examen</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\..\PASTELERIA\PASTELERIA\PASTELERIA.csproj">
-      <Project>{D3299629-4F07-44A7-8365-19DFC406CCBB}</Project>
-      <Name>PASTELERIA</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\..\t22\t22\t22.csproj">
-      <Project>{82B1B4A5-B5A5-4F4C-947D-3A759AB08563}</Project>
-      <Name>t22</Name>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
