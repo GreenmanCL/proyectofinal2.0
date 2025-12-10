@@ -33,10 +33,5 @@ namespace examen
 		{ 
 			this.Hide();
 		}
-		
-		void Label2Click(object sender, EventArgs e)
-		{
-			
-		}
 	}
 }

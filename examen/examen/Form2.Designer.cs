@@ -49,9 +49,9 @@ namespace examen
 			this.label1.Location = new System.Drawing.Point(57, 53);
 			this.label1.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
 			this.label1.Name = "label1";
-			this.label1.Size = new System.Drawing.Size(239, 23);
+			this.label1.Size = new System.Drawing.Size(156, 23);
 			this.label1.TabIndex = 0;
-			this.label1.Text = "Somos los BRAWL STARS";
+			this.label1.Text = "Fabry uWU";
 			// 
 			// pictureBox1
 			// 
@@ -65,14 +65,13 @@ namespace examen
 			// 
 			// label2
 			// 
-			this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-			this.label2.Location = new System.Drawing.Point(96, 179);
+			this.label2.Font = new System.Drawing.Font("Minecraft", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+			this.label2.Location = new System.Drawing.Point(57, 108);
 			this.label2.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
 			this.label2.Name = "label2";
 			this.label2.Size = new System.Drawing.Size(239, 96);
 			this.label2.TabIndex = 2;
-			this.label2.Text = "ola";
-			this.label2.Click += new System.EventHandler(this.Label2Click);
+			this.label2.Text = "Soy fabry y soy ese de la imagen.. me gusta la música y tambien emprender";
 			// 
 			// button1
 			// 
@@ -86,14 +85,14 @@ namespace examen
 			// 
 			// Form2
 			// 
-			this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 16F);
+			this.AutoScaleDimensions = new System.Drawing.SizeF(14F, 20F);
 			this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
 			this.ClientSize = new System.Drawing.Size(711, 410);
 			this.Controls.Add(this.button1);
 			this.Controls.Add(this.label2);
 			this.Controls.Add(this.pictureBox1);
 			this.Controls.Add(this.label1);
-			this.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+			this.Font = new System.Drawing.Font("Minecraft", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
 			this.Margin = new System.Windows.Forms.Padding(5, 3, 5, 3);
 			this.Name = "Form2";
 			this.Text = "Form2";

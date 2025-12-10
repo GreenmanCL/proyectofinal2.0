@@ -51,23 +51,5 @@ namespace ProyectoFina
 			exa.MdiParent = this;
 			exa.Show();
 		}
-		
-		void BoletaCalificacionesToolStripMenuItemClick(object sender, EventArgs e)
-		{
-			t22.MainForm boleta = new t22.MainForm();
-			boleta.MdiParent = this;
-			boleta.Show();
-		}
-		
-		void AcercaDeToolStripMenuItemClick(object sender, EventArgs e)
-		{
-			acercade a = new acercade();
-			a.Show();
-		}
-		
-		void SalirToolStripMenuItemClick(object sender, EventArgs e)
-		{
-			Application.Exit();
-		}
 	}
 }
