@@ -51,5 +51,11 @@ namespace ProyectoFina
 			exa.MdiParent = this;
 			exa.Show();
 		}
+		
+		void AcercaDeToolStripMenuItemClick(object sender, EventArgs e)
+		{
+			Form1 acercade = new Form1();
+			acercade.Show();
+		}
 	}
 }

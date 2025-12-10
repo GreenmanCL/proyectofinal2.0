@@ -102,13 +102,14 @@ namespace ProyectoFina
 			// acercaDeToolStripMenuItem
 			// 
 			this.acercaDeToolStripMenuItem.Name = "acercaDeToolStripMenuItem";
-			this.acercaDeToolStripMenuItem.Size = new System.Drawing.Size(126, 22);
+			this.acercaDeToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
 			this.acercaDeToolStripMenuItem.Text = "Acerca de";
+			this.acercaDeToolStripMenuItem.Click += new System.EventHandler(this.AcercaDeToolStripMenuItemClick);
 			// 
 			// salirToolStripMenuItem
 			// 
 			this.salirToolStripMenuItem.Name = "salirToolStripMenuItem";
-			this.salirToolStripMenuItem.Size = new System.Drawing.Size(126, 22);
+			this.salirToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
 			this.salirToolStripMenuItem.Text = "Salir";
 			// 
 			// MENU
@@ -123,7 +124,7 @@ namespace ProyectoFina
 			this.DoubleBuffered = true;
 			this.IsMdiContainer = true;
 			this.MainMenuStrip = this.menuStrip1;
-			this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+			this.Margin = new System.Windows.Forms.Padding(2);
 			this.Name = "MENU";
 			this.Text = "MENU";
 			this.menuStrip1.ResumeLayout(false);
