@@ -47,10 +47,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="acercade.cs" />
-    <Compile Include="acercade.Designer.cs">
-      <DependentUpon>acercade.cs</DependentUpon>
-    </Compile>
     <Compile Include="LOGIN.cs" />
     <Compile Include="LOGIN.Designer.cs">
       <DependentUpon>LOGIN.cs</DependentUpon>
@@ -82,10 +78,6 @@
     <ProjectReference Include="..\..\PASTELERIA\PASTELERIA\PASTELERIA.csproj">
       <Project>{D3299629-4F07-44A7-8365-19DFC406CCBB}</Project>
       <Name>PASTELERIA</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\..\t22\t22\t22.csproj">
-      <Project>{82B1B4A5-B5A5-4F4C-947D-3A759AB08563}</Project>
-      <Name>t22</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

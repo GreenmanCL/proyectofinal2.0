@@ -278,8 +278,6 @@ namespace examen
 		   	g.Show();
         }
 		
-		
-		
 		void MenuStrip1ItemClicked(object sender, ToolStripItemClickedEventArgs e)
 		{
 			
@@ -287,8 +285,7 @@ namespace examen
 		
 		void Form1Load(object sender, EventArgs e)
 		{
-			MessageBox.Show("Arriba estan las opciones y asi");
+			MessageBox.Show("LAS OPCIONES ESTAN ARRIBA");
 		}
-		// No se puede copiar "C:\Users\CC1_PC01\Documents\Nueva carpeta\proyectofinal2.0\examen\examen\bin\Debug\examen.exe" en "bin\Debug\examen.exe". El proceso no puede obtener acceso al archivo 'bin\Debug\examen.exe' porque está siendo utilizado en otro proceso. (MSB3021)
     }
 }
