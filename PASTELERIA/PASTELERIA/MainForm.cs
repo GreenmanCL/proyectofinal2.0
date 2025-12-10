@@ -62,6 +62,8 @@ namespace PASTELERIA
 		
 		void MainFormLoad(object sender, EventArgs e)
 		{
+		    pictureBox1.Image=Image.FromFile("pblogo.jpg");
+
 			RadioButton vacio4 = new RadioButton();
 			vacio4.Visible = false;
 			vacio4.TabStop = false;
