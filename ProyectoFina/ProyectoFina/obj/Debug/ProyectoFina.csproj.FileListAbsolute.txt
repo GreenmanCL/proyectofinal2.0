@@ -1,0 +1,16 @@
+C:\Users\CC1_PC01\Documents\Nueva carpeta\proyectofinal2.0\ProyectoFina\ProyectoFina\bin\Debug\ProyectoFina.exe
+C:\Users\CC1_PC01\Documents\Nueva carpeta\proyectofinal2.0\ProyectoFina\ProyectoFina\bin\Debug\ProyectoFina.pdb
+C:\Users\CC1_PC01\Documents\Nueva carpeta\proyectofinal2.0\ProyectoFina\ProyectoFina\bin\Debug\EMPLEADOS.exe
+C:\Users\CC1_PC01\Documents\Nueva carpeta\proyectofinal2.0\ProyectoFina\ProyectoFina\bin\Debug\examen.exe
+C:\Users\CC1_PC01\Documents\Nueva carpeta\proyectofinal2.0\ProyectoFina\ProyectoFina\bin\Debug\PASTELERIA.exe
+C:\Users\CC1_PC01\Documents\Nueva carpeta\proyectofinal2.0\ProyectoFina\ProyectoFina\bin\Debug\t22.exe
+C:\Users\CC1_PC01\Documents\Nueva carpeta\proyectofinal2.0\ProyectoFina\ProyectoFina\bin\Debug\EMPLEADOS.pdb
+C:\Users\CC1_PC01\Documents\Nueva carpeta\proyectofinal2.0\ProyectoFina\ProyectoFina\bin\Debug\examen.pdb
+C:\Users\CC1_PC01\Documents\Nueva carpeta\proyectofinal2.0\ProyectoFina\ProyectoFina\bin\Debug\PASTELERIA.pdb
+C:\Users\CC1_PC01\Documents\Nueva carpeta\proyectofinal2.0\ProyectoFina\ProyectoFina\bin\Debug\t22.pdb
+C:\Users\CC1_PC01\Documents\Nueva carpeta\proyectofinal2.0\ProyectoFina\ProyectoFina\obj\Debug\ProyectoFina.csprojResolveAssemblyReference.cache
+C:\Users\CC1_PC01\Documents\Nueva carpeta\proyectofinal2.0\ProyectoFina\ProyectoFina\obj\Debug\ProyectoFina.LOGIN.resources
+C:\Users\CC1_PC01\Documents\Nueva carpeta\proyectofinal2.0\ProyectoFina\ProyectoFina\obj\Debug\ProyectoFina.MENU.resources
+C:\Users\CC1_PC01\Documents\Nueva carpeta\proyectofinal2.0\ProyectoFina\ProyectoFina\obj\Debug\ProyectoFina.csproj.GenerateResource.Cache
+C:\Users\CC1_PC01\Documents\Nueva carpeta\proyectofinal2.0\ProyectoFina\ProyectoFina\obj\Debug\ProyectoFina.exe
+C:\Users\CC1_PC01\Documents\Nueva carpeta\proyectofinal2.0\ProyectoFina\ProyectoFina\obj\Debug\ProyectoFina.pdb

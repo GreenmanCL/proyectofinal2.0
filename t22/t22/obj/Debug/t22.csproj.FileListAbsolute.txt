@@ -1,0 +1,7 @@
+C:\Users\CC1_PC01\Documents\Nueva carpeta\proyectofinal2.0\t22\t22\bin\Debug\t22.exe
+C:\Users\CC1_PC01\Documents\Nueva carpeta\proyectofinal2.0\t22\t22\bin\Debug\t22.pdb
+C:\Users\CC1_PC01\Documents\Nueva carpeta\proyectofinal2.0\t22\t22\obj\Debug\t22.csprojResolveAssemblyReference.cache
+C:\Users\CC1_PC01\Documents\Nueva carpeta\proyectofinal2.0\t22\t22\obj\Debug\t22.MainForm.resources
+C:\Users\CC1_PC01\Documents\Nueva carpeta\proyectofinal2.0\t22\t22\obj\Debug\t22.csproj.GenerateResource.Cache
+C:\Users\CC1_PC01\Documents\Nueva carpeta\proyectofinal2.0\t22\t22\obj\Debug\t22.exe
+C:\Users\CC1_PC01\Documents\Nueva carpeta\proyectofinal2.0\t22\t22\obj\Debug\t22.pdb

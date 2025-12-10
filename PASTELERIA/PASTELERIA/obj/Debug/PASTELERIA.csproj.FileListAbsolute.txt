@@ -1,0 +1,5 @@
+C:\Users\CC1_PC01\Documents\Nueva carpeta\proyectofinal2.0\PASTELERIA\PASTELERIA\obj\Debug\PASTELERIA.csprojResolveAssemblyReference.cache
+C:\Users\CC1_PC01\Documents\Nueva carpeta\proyectofinal2.0\PASTELERIA\PASTELERIA\bin\Debug\PASTELERIA.exe
+C:\Users\CC1_PC01\Documents\Nueva carpeta\proyectofinal2.0\PASTELERIA\PASTELERIA\bin\Debug\PASTELERIA.pdb
+C:\Users\CC1_PC01\Documents\Nueva carpeta\proyectofinal2.0\PASTELERIA\PASTELERIA\obj\Debug\PASTELERIA.exe
+C:\Users\CC1_PC01\Documents\Nueva carpeta\proyectofinal2.0\PASTELERIA\PASTELERIA\obj\Debug\PASTELERIA.pdb
