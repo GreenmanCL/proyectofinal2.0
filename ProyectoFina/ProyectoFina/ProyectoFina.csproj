@@ -86,6 +86,10 @@
       <Project>{D3299629-4F07-44A7-8365-19DFC406CCBB}</Project>
       <Name>PASTELERIA</Name>
     </ProjectReference>
+    <ProjectReference Include="..\..\t22\t22\t22.csproj">
+      <Project>{82B1B4A5-B5A5-4F4C-947D-3A759AB08563}</Project>
+      <Name>t22</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

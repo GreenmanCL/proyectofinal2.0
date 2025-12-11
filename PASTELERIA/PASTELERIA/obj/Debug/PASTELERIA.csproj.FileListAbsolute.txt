@@ -40,3 +40,17 @@ C:\Users\CC2_PC16\Documents\nose\proyectofinal2.0\PASTELERIA\PASTELERIA\obj\Debu
 C:\Users\CC2_PC16\Documents\nose\proyectofinal2.0\PASTELERIA\PASTELERIA\obj\Debug\PASTELERIA.csproj.GenerateResource.Cache
 C:\Users\CC2_PC16\Documents\nose\proyectofinal2.0\PASTELERIA\PASTELERIA\obj\Debug\PASTELERIA.exe
 C:\Users\CC2_PC16\Documents\nose\proyectofinal2.0\PASTELERIA\PASTELERIA\obj\Debug\PASTELERIA.pdb
+C:\Users\CC2_PC14\Pictures\proyectofinal2.0-main\PASTELERIA\PASTELERIA\bin\Debug\PASTELERIA.exe
+C:\Users\CC2_PC14\Pictures\proyectofinal2.0-main\PASTELERIA\PASTELERIA\bin\Debug\PASTELERIA.pdb
+C:\Users\CC2_PC14\Pictures\proyectofinal2.0-main\PASTELERIA\PASTELERIA\obj\Debug\PASTELERIA.csprojResolveAssemblyReference.cache
+C:\Users\CC2_PC14\Pictures\proyectofinal2.0-main\PASTELERIA\PASTELERIA\obj\Debug\PASTELERIA.MainForm.resources
+C:\Users\CC2_PC14\Pictures\proyectofinal2.0-main\PASTELERIA\PASTELERIA\obj\Debug\PASTELERIA.csproj.GenerateResource.Cache
+C:\Users\CC2_PC14\Pictures\proyectofinal2.0-main\PASTELERIA\PASTELERIA\obj\Debug\PASTELERIA.exe
+C:\Users\CC2_PC14\Pictures\proyectofinal2.0-main\PASTELERIA\PASTELERIA\obj\Debug\PASTELERIA.pdb
+C:\Users\CC2_PC14\Music\PASTELERIA\PASTELERIA\bin\Debug\PASTELERIA.exe
+C:\Users\CC2_PC14\Music\PASTELERIA\PASTELERIA\bin\Debug\PASTELERIA.pdb
+C:\Users\CC2_PC14\Music\PASTELERIA\PASTELERIA\obj\Debug\PASTELERIA.csprojResolveAssemblyReference.cache
+C:\Users\CC2_PC14\Music\PASTELERIA\PASTELERIA\obj\Debug\PASTELERIA.MainForm.resources
+C:\Users\CC2_PC14\Music\PASTELERIA\PASTELERIA\obj\Debug\PASTELERIA.csproj.GenerateResource.Cache
+C:\Users\CC2_PC14\Music\PASTELERIA\PASTELERIA\obj\Debug\PASTELERIA.exe
+C:\Users\CC2_PC14\Music\PASTELERIA\PASTELERIA\obj\Debug\PASTELERIA.pdb
