@@ -57,5 +57,12 @@ namespace ProyectoFina
 			Form1 acercade = new Form1();
 			acercade.Show();
 		}
+		
+		void BoletaDeCalificacionesToolStripMenuItemClick(object sender, EventArgs e)
+		{
+			t22.MainForm tewnti = new t22.MainForm();
+			tewnti.MdiParent = this;
+			tewnti.Show();
+		}
 	}
 }

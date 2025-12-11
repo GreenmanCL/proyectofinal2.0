@@ -45,6 +45,7 @@ namespace ProyectoFina
 			this.informacionToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
 			this.acercaDeToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
 			this.salirToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+			this.boletaDeCalificacionesToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
 			this.menuStrip1.SuspendLayout();
 			this.SuspendLayout();
 			// 
@@ -64,7 +65,8 @@ namespace ProyectoFina
 			this.formulariosToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
 									this.empleadosToolStripMenuItem,
 									this.pasteleriaToolStripMenuItem,
-									this.examernAnteriorToolStripMenuItem});
+									this.examernAnteriorToolStripMenuItem,
+									this.boletaDeCalificacionesToolStripMenuItem});
 			this.formulariosToolStripMenuItem.Name = "formulariosToolStripMenuItem";
 			this.formulariosToolStripMenuItem.Size = new System.Drawing.Size(82, 20);
 			this.formulariosToolStripMenuItem.Text = "Formularios";
@@ -102,15 +104,22 @@ namespace ProyectoFina
 			// acercaDeToolStripMenuItem
 			// 
 			this.acercaDeToolStripMenuItem.Name = "acercaDeToolStripMenuItem";
-			this.acercaDeToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+			this.acercaDeToolStripMenuItem.Size = new System.Drawing.Size(126, 22);
 			this.acercaDeToolStripMenuItem.Text = "Acerca de";
 			this.acercaDeToolStripMenuItem.Click += new System.EventHandler(this.AcercaDeToolStripMenuItemClick);
 			// 
 			// salirToolStripMenuItem
 			// 
 			this.salirToolStripMenuItem.Name = "salirToolStripMenuItem";
-			this.salirToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+			this.salirToolStripMenuItem.Size = new System.Drawing.Size(126, 22);
 			this.salirToolStripMenuItem.Text = "Salir";
+			// 
+			// boletaDeCalificacionesToolStripMenuItem
+			// 
+			this.boletaDeCalificacionesToolStripMenuItem.Name = "boletaDeCalificacionesToolStripMenuItem";
+			this.boletaDeCalificacionesToolStripMenuItem.Size = new System.Drawing.Size(216, 22);
+			this.boletaDeCalificacionesToolStripMenuItem.Text = "Boleta de calificaciones";
+			this.boletaDeCalificacionesToolStripMenuItem.Click += new System.EventHandler(this.BoletaDeCalificacionesToolStripMenuItemClick);
 			// 
 			// MENU
 			// 
@@ -132,6 +141,7 @@ namespace ProyectoFina
 			this.ResumeLayout(false);
 			this.PerformLayout();
 		}
+		private System.Windows.Forms.ToolStripMenuItem boletaDeCalificacionesToolStripMenuItem;
 		private System.Windows.Forms.ToolStripMenuItem salirToolStripMenuItem;
 		private System.Windows.Forms.ToolStripMenuItem acercaDeToolStripMenuItem;
 		private System.Windows.Forms.ToolStripMenuItem informacionToolStripMenuItem;
